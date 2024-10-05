@@ -1,0 +1,17 @@
+export const personalData = {
+  name: "Faisal Shehzad",
+  profile: '/profile.jpeg',
+  designation: "Senior Software Engineer",
+  description: "My name is Faisal Shehzad. An experienced Software Engineer with nearly 3 years of expertise in back-end and front-end development, specializing in Ruby on Rails, React JS, Node.js, and system design. Skilled in building scalable web applications, managing databases, optimizing code, and handling deployments. Proficient in feature development, bug fixing, architectural improvements, and multi-tenancy solutions. Expertise in system design and architecture, consistently delivering on client expectations and meeting deadlines. Enthusiastic, self-driven, and passionate about problem-solving and exploring new technologies. Open to opportunities that align with these skills and interests.",
+  email: 'dev.faisal.shehzad@gmail.com',
+  phone: '+923068062386',
+  address: 'Lahore, Pakistan',
+  github: 'https://github.com/dev-faisal-shehzad',
+  facebook: 'https://www.facebook.com/faisy.programmer',
+  linkedIn: 'https://www.linkedin.com/in/faisal-shehzad-amin/',
+  twitter: 'https://twitter.com/',
+  stackOverflow: 'https://stackoverflow.com/',
+  leetcode: "https://leetcode.com/",
+  devUsername: "said7388",
+  resume: "https://drive.google.com/file/d/1k063JWPSv8EPWtI-MXTaEZH-pxTdNyff/view?usp=sharing",
+}
